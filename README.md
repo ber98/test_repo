@@ -1,2 +1,1 @@
-internet
-is cool
+# Used for testing remote repo access
